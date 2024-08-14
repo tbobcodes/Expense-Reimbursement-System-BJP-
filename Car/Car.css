@@ -1,0 +1,12 @@
+.car-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    margin:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border: double blue;
+    border-radius: 5%;
+}

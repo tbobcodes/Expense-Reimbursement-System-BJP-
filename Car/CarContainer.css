@@ -1,0 +1,7 @@
+.collection-container{
+    margin:10px;
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+    flex-wrap: wrap;
+}
